@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://github.com/Deep-Web-Links-2024/Deep-Web-Links-2024/blob/main/Internet%20Logo.png" width="300" height="300">
+  <img src="https://github.com/Deep-Web-Links-2024/Deep-Web-Links-2024/blob/main/Logo.png" width="300" height="300">
 </p>
 <h1 align="center">👋 Hey there, I'm Deep Web Links!</h1>
 <p align="center">
