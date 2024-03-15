@@ -75,10 +75,6 @@
 <!-- Top Repositories -->
 <h2 align="center">Top Repositories</h2>
 <p align="center">
-  <a href="https://github.com/Deep-Web-Links-2024/deepweb-links">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deep-Web-Links-2024&repo=deepweb-links&theme=dark" alt="Top Repository 1">
-  </a>
-  <a href="https://github.com/Deep-Web-Links-2024/Deep-Web-Links-2024">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deep-Web-Links-2024&repo=Deep-Web-Links-2024&theme=dark" alt="Top Repository 2">
-  </a>
+<a href="https://github.com/Deep-Web-Links-2024/deepweb-links"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deep-Web-Links-2024&repo=deepweb-links&theme=dark" alt="Top Repository 1"></a>
+<a href="https://github.com/Deep-Web-Links-2024/Deep-Web-Links-2024"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deep-Web-Links-2024&repo=Deep-Web-Links-2024&theme=dark" alt="Top Repository 2"></a>
 </p>
