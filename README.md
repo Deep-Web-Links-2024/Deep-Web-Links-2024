@@ -76,4 +76,5 @@
 <p align="center">
 <a href="https://github.com/Deep-Web-Links-2024/Deep-Web-Links-2024"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deep-Web-Links-2024&repo=Deep-Web-Links-2024&theme=dark" alt="Top Repository 1"></a>
 <a href="https://github.com/Deep-Web-Links-2024/deepweb-links"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deep-Web-Links-2024&repo=deepweb-links&theme=dark" alt="Top Repository 2"></a>
+<a href="https://github.com/Deep-Web-Links-2024/Hidden-Wiki"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deep-Web-Links-2024&repo=Hidden-Wiki&theme=dark" alt="Top Repository 3"></a>
 </p>
